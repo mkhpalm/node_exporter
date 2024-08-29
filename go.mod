@@ -41,6 +41,7 @@ require (
 	github.com/dennwc/ioctl v1.0.0 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/jaypipes/ghw v0.12.0
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/mdlayher/genetlink v1.3.2 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
